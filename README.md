@@ -2,7 +2,7 @@
 
 A simple Rest server project made with NodeJS Express and MongoDB. 
 
-It includes:
+It includes:  
 mongoose  
 express-validator  
 Auth with JWT  
