@@ -9,7 +9,6 @@ It includes:
 - Google Authentication  
 - Custom middlewares  
 - Tailwind CSS for login form  
-- And best practices for Rest API development.  
 
 
 Run 'npm install' to build node_modules folder
